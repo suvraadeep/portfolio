@@ -1,10 +1,10 @@
 ---
-title: "Stocks-Dashboard"
-excerpt: "This project is a real-time stock dashboard built using Streamlit, Plotly, and Yahoo Finance API (yfinance). It allows users to visualize stock price data with interactive charts and technical indicators."
+title: "Financial assistant using LangGraph"
+excerpt: "This project implements a Financial Assistant using LangChain, LangGraph, and Groq APIs to process user queries related to stock prices, income statements, company financials, and reports. The assistant leverages structured workflows, APIs, and LLMs to fetch, analyze, and present financial data efficiently."
 collection: portfolio
 ---
 
-🔗 **Notebook Link:** [Stocks-Dashboard](https://www.kaggle.com/code/suvroo/financial-assistant-using-langgraph)  
+🔗 **Notebook Link:** [Financial assistant using LangGraph](https://www.kaggle.com/code/suvroo/financial-assistant-using-langgraph)  
 
 ## Tech Stack Used
 - **Plotly**: A powerful library for creating interactive plots and visualizations.
