@@ -1,6 +1,6 @@
 ---
 title: "OMNI Agent- Your all time GenAI career assistant"
-excerpt: "AI-powered mentor designed to simplify and support your journey in your learning, resume preparation, interview assistance, and job hunting  <br/><img src='/images/omni-img.png'>"
+excerpt: "AI-powered mentor designed to simplify and support your journey in your learning, resume preparation, interview assistance, and job hunting "
 collection: portfolio
 ---
 
