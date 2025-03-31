@@ -22,14 +22,16 @@ collection: portfolio
 - **Python Tools**: Quantitative analysis libraries  
 
 ### Core Capabilities  
-1. **Multi-Agent Architecture**  
+1. **Multi-Agent Architecture**
+   ```markdown  
    | Agent Type | Specialization | Tools Used |  
    |-----------|----------------|------------|  
    | Sentiment Analyst | News scoring | Google Search, NLP |  
    | Financial Analyst | Fundamental metrics | YFinance API |  
    | Quant Analyst | DCF modeling | Python/pandas |  
    | Executive Agent | Risk-weighted synthesis | Data aggregation |  
-
+   ```
+   
 2. **Analysis Workflows**  
    - Comparable Companies Analysis (Public Comps)  
    - Discounted Cash Flow Modeling (DCF)  
@@ -48,42 +50,6 @@ collection: portfolio
 
    **Recommendation**: BUY (Consensus Score: 8.2/10)  
    ```
-
-## Getting Started  
-
-1. **Installation**  
-   ```bash  
-   !pip install phidata groq yfinance googlesearch-python pycountry -q  
-   ```
-
-2. **API Setup**  
-   ```python  
-   import getpass  
-   import os  
-
-   if "GROQ_API_KEY" not in os.environ:  
-       os.environ["GROQ_API_KEY"] = getpass.getpass("Enter Groq API key: ")  
-   ```
-
-3. **Agent Initialization**  
-   ```python  
-   from phi.agent import Agent  
-   from phi.model.groq import Groq  
-   from phi.tools.yfinance import YFinanceTools  
-
-   quant_agent = Agent(  
-       model=Groq(id="deepseek-r1-distill-llama-70b"),  
-       tools=[PythonTools()],  
-       instructions=["Perform Monte Carlo simulations on revenue growth"]  
-   )  
-   ```
-
-## Example Analysis  
-
-**Query**:  
-```python  
-agent_team.print_response("Analyze NVDA's AI chip market dominance vs TSMC", stream=True)  
-```
 
 **Output Framework**:  
 1. Market Share Analysis (YFinance data)  
