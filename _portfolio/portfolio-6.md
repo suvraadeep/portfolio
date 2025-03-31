@@ -6,8 +6,6 @@ collection: portfolio
 
 🔗 **Notebook Link:** [CogVideoX-quantized](https://www.kaggle.com/code/suvroo/cogvideox-quantized)  
 
-# README
-
 ## Tech Stack Used
 - **Python**: Core programming language for implementing the workflow.
 - **Hugging Face Diffusers Library**: For leveraging CogVideoX pipelines to generate videos from text prompts.
