@@ -1,6 +1,6 @@
 ---
 title: "CogVideoX-quantized"
-excerpt: "This project implements a Financial Assistant using LangChain, LangGraph, and Groq APIs to process user queries related to stock prices, income statements, company financials, and reports. The assistant leverages structured workflows, APIs, and LLMs to fetch, analyze, and present financial data efficiently."
+excerpt: "CogVideoX-Quantized is a memory-efficient variant of the text-to-video generation model that leverages quantization techniques to reduce GPU memory requirements while maintaining competitive performance"
 collection: portfolio
 ---
 
