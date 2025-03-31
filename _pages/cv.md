@@ -17,20 +17,14 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Researcher at Research Commons [Feb 2025 - March 2025]
+  * Worked upon financial agents and MCP for quantitative finance related tasks
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ML Research INtern at UiT Norway [December 2023 - March 2023]
+  * Developed and optimized Deep Learning (DL) models for enhancing Scanning Acoustic Microscopy (SAM) imaging in biomedical imaging, non-destructive testing, and material research. Applied computer vision and signal processing techniques to analyze acoustic imaging data, uncover hidden patterns, and improve predictive accuracy. Leveraged parallel computing and efficient architectures to handle large datasets, contributing to advancements in Structural Health Monitoring and real-time SAM analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* LLM Research intern at XLRI Jamshedpur [Feb 2025 - March 2025]
+  * Worked upon fine-tuning LLama 2 for Corrective evaluation and scoring of organizational behaviour subject answer scripts
   
 Skills
 ======
