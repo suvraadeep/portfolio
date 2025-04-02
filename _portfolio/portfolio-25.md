@@ -4,8 +4,8 @@ excerpt: "Vibe-Coder-WebD is a lightweight, AI-powered web builder that enables 
 collection: portfolio
 ---
 
-🔗 **GitHub Repository:** [Gemini-website-IDE](https://github.com/suvraadeep/Vibe-Coder-WebD.git)  
-🔗 **Live Link:** [Gemini-website-IDE Working Link](https://huggingface.co/spaces/suvradeepp/Vibe-Coder-WebD)  
+🔗 **GitHub Repository:** [Vibe-Coder-WebD](https://github.com/suvraadeep/Vibe-Coder-WebD.git)  
+🔗 **Live Link:** [Vibe-Coder-WebD Working Link](https://huggingface.co/spaces/suvradeepp/Vibe-Coder-WebD)  
 
 ## Tech Stack  Used  
 - **Gemini** – A powerful reasoning language model.  
