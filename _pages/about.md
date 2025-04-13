@@ -20,7 +20,7 @@ Beyond academics, I enjoy solving puzzles, engaging in thought-provoking discuss
 ## Updates  
 - **March 2025** – Secured 3rd place at ImpactHacks 2025 with *Omni Assistant*, an agentic platform designed as a one-stop solution to democratize Generative AI for everyone.
 - **February 2025** – Started working at **Research Commons**, developing AI agents for financial applications.  
-- **January 2025** – Selected as an **AI Research Intern at IBM Research, Bangalore**.  
+- **January 2025** – Selected as an **AI Research Intern at IBM Research, Bangalore** for **Summer 2025**
 - **November 2024** – Achieved **2x Kaggle Grandmaster**, ranking in the top 0.01% globally.  
 - **September 2024** – Promoted to Kaggle Master.  
 - **August 2024** – Promoted to Kaggle Expert.  
