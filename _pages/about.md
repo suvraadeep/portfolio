@@ -18,6 +18,9 @@ Currently, I am exploring agentic AI, PPO, GRPO, and statistical learning while 
 Beyond academics, I enjoy solving puzzles, engaging in thought-provoking discussions, and maintaining an active lifestyle through swimming. I also love sharing knowledge through blogs, helping others navigate the world of ML.  
  
 ## Updates  
+- **August 2025** – Submitted a research paper to **AAAI 2026** based on my internship work at **IBM Research**, titled *PRESTO: A Framework for Orchestrating System States and Test Cases for Bash Script Verification*.
+- **July 2025** – Filed a patent related to my internship work at **IBM Research**.
+- **July 2025** – Successfully completed my internship at **IBM Research**, where I was part of the **AI4ITOPS** team.
 - **March 2025** – Secured 3rd place at ImpactHacks 2025 with *Omni Assistant*, an agentic platform designed as a one-stop solution to democratize Generative AI for everyone.
 - **February 2025** – Started working at **Research Commons**, developing AI agents for financial applications.  
 - **January 2025** – Selected as an **AI Research Intern at IBM Research, Bangalore** for **Summer 2025**
