@@ -32,28 +32,6 @@ collection: portfolio
    - Time saved + estimated cost impact.
 
 
-### Screenshots:
-
-#### Overview
-![Overview](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/overview.png)
-
-#### Gantt Chart
-![Gantt](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/gantt.png)
-
-#### Predictions
-![Predictions](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/predictions.png)
-
-#### Ripple Analysis
-![Ripple](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/ripple.png)
-
-#### What-if Scenarios
-![What-if](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/whatif.png)
-
-#### DAG Visualization
-![DAG](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/dag.png)
-
-#### Optimization & Critical Path
-![Optimization](https://github.com/suvraadeep/Dynamic-What-if-scheduling/blob/main/screenshots/optimization.png)
 
 
 ### Technologies Used:
