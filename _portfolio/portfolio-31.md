@@ -35,19 +35,6 @@ collection: portfolio
    - Sends actionable SMS alerts to farmers.
 
 
-### Screenshots:
-
-#### Dashboard Overview
-![Dashboard](https://github.com/suvraadeep/Cascading-Crop-Failure-Early-Warning-System/blob/main/utils/1.jpeg)
-
-#### Weather & Feature Analysis
-![Weather](https://github.com/suvraadeep/Cascading-Crop-Failure-Early-Warning-System/blob/main/utils/2.jpeg)
-
-#### Regional Risk & Alerts
-![Risk](https://github.com/suvraadeep/Cascading-Crop-Failure-Early-Warning-System/blob/main/utils/3.jpeg)
-
-#### TFT Prediction Output
-![TFT](https://github.com/suvraadeep/Cascading-Crop-Failure-Early-Warning-System/blob/main/crop_ews/tft_predictions.png)
 
 
 ### Technologies Used:
