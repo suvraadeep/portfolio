@@ -33,19 +33,6 @@ collection: portfolio
    - Model retrains for updated distribution.
 
 
-### Screenshots:
-
-#### Score Breakdown
-![Score](https://github.com/suvraadeep/Explainable-Credit-Risk-Modeling-with-Schduling/blob/main/utils/1.jpeg)
-
-#### SHAP Explainability
-![SHAP](https://github.com/suvraadeep/Explainable-Credit-Risk-Modeling-with-Schduling/blob/main/utils/2.jpeg)
-
-#### Drift Simulation
-![Drift](https://github.com/suvraadeep/Explainable-Credit-Risk-Modeling-with-Schduling/blob/main/utils/3.jpeg)
-
-#### Feature Profile
-![Profile](https://github.com/suvraadeep/Explainable-Credit-Risk-Modeling-with-Schduling/blob/main/utils/4.jpeg)
 
 
 ### Technologies Used:
