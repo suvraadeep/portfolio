@@ -33,25 +33,6 @@ collection: portfolio
    - Fully reproducible implementation with markdown explanations.
 
 
-### Screenshots:
-
-#### Home Interface
-![Home](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/1.jpg)
-
-#### Configuration Panel
-![Config](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/2.jpg)
-
-#### Real-time Progress
-![Progress](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/4.jpg)
-
-#### AI Thinking Visualization
-![Thinking](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/3.jpg)
-
-#### Notebook Ready
-![Download](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/5.jpg)
-
-#### Trending Papers
-![Trending](https://github.com/suvraadeep/Paper-to-.ipynb/blob/main/images/6.jpg)
 
 
 ### Technologies Used:
